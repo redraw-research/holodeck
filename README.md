@@ -1,4 +1,4 @@
-Modified fork from https://github.com/BYU-PCCL/holodeck
+The code has been modified to work with Unreal Engine 5 from https://github.com/BYU-PCCL/holodeck
 
 # Holodeck
 
